@@ -17,3 +17,9 @@ Nama : Sofi fitriyah
 TTL  : september
 Hobi : makan
 -----------------------
+
+-----------------------
+Nama : Dwi Oktaviani
+TTL  : Boyolali, 6 Oktober 
+Hobi : bernafas
+-----------------------
