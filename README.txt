@@ -11,3 +11,9 @@ Nama : Ucu Nurul Ulum
 TTL  : 28 Januari 1994
 Hobi : Googling
 -----------------------
+
+-----------------------
+Nama : Sofi fitriyah
+TTL  : september
+Hobi : makan
+-----------------------
