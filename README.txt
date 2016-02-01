@@ -6,3 +6,8 @@ abyor-adventure-siliwangi created by Classroom for GitHub
 # Semangat kaka
 
 Silahkan isi data kalian semua di bawah
+-----------------------
+Nama : Ucu Nurul Ulum
+TTL  : 28 Januari 1994
+Hobi : Googling
+-----------------------
