@@ -23,3 +23,9 @@ Nama : Dwi Oktaviani
 TTL  : Boyolali, 6 Oktober 
 Hobi : bernafas
 -----------------------
+
+-----------------------
+Nama : Trio Andianto
+TTL  : Brebes, 10 November 
+Hobi : Main
+-----------------------
