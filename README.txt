@@ -32,4 +32,7 @@ Nama : Trio Andianto
 TTL  : Brebes, 10 November 
 Hobi : Main
 -----------------------
+
 mencoba mengubah stash apa itu 
+
+Percobaan Stash
