@@ -1,0 +1,8 @@
+ini adalah isi file dari myfiles.text
+
+hanya sekedar untuk coba-coba
+
+abis ini lanjut ke stash
+
+replace
+
