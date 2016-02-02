@@ -1,4 +1,7 @@
-# abyor-adventure-siliwangi
+abyor-adventure-siliwangi
+=========================
+
+
 abyor-adventure-siliwangi created by Classroom for GitHub
 
 # Harap diperhatikan baik-baik
@@ -29,6 +32,3 @@ Nama : Trio Andianto
 TTL  : Brebes, 10 November 
 Hobi : Main
 -----------------------
-
-
-Edit by Dwi Oktaviani training GITHUB day 2....
