@@ -32,3 +32,5 @@ Nama : Trio Andianto
 TTL  : Brebes, 10 November 
 Hobi : Main
 -----------------------
+
+Percobaan Stash
