@@ -29,3 +29,6 @@ Nama : Trio Andianto
 TTL  : Brebes, 10 November 
 Hobi : Main
 -----------------------
+
+
+Edit by Dwi Oktaviani training GITHUB day 2....
