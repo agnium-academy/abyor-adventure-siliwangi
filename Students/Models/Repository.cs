@@ -11,7 +11,7 @@ namespace Students.Models
         static Repository()
         {
             responses = new Dictionary<string, Student>();
-            responses.Add("Trio", new Student
+            responses.Add("Trio A", new Student
             {
                 NIM = 1,
                 Name = "Trio",
