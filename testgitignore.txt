@@ -1,1 +1,0 @@
-ni adalah isi dari file gitignore
