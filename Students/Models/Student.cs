@@ -8,7 +8,7 @@ namespace Students.Models
 {
     public class Student
     {
-        [Required]
+        
         public int NIM { get; set; }
         [Required]
         public string Name { get; set; }
