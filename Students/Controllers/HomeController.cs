@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Students.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,6 +13,22 @@ namespace Students.Controllers
         public ActionResult Index()
         {
             return View();
+        }
+        public ActionResult Rsvp()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Rsvp(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                Repository.Add(student);
+                return View("Thanks", student);
+            }
+            else {
+                return View();
+            }
         }
     }
 }
