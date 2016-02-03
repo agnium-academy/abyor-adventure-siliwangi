@@ -1,0 +1,10 @@
+﻿@model PartyInvites.Models.GuestResponse
+@{ ViewBag.Title = "Thanks";}
+<h1>Thank you, @Model.Nama!</h1>
+<div class="lead">
+    
+       Selamat! Data Anda telah tersimpan!
+
+        @Html.Action("Attendees", "Home")
+    
+</div>

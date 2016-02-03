@@ -1,0 +1,25 @@
+﻿@model PartyInvites.Models.GuestResponse
+@{ ViewBag.Title = "Rsvp"; }
+<div class="panel panel-success">
+    <div class="panel-heading"><h4>RSVP</h4></div>
+    <div class="panel-body">
+        @using (Html.BeginForm())
+        {
+            <div class="form-group">
+                <label>Nama:</label>
+                @Html.TextBoxFor(x => x.Nama, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Alamat:</label>
+                @Html.TextBoxFor(x => x.Alamat, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Umur:</label>
+                @Html.TextBoxFor(x => x.Umur, new { @class = "form-control" })
+            </div>
+            <div class="text-center">
+                <input class="btn btn-success" type="submit" value="Kirim Data" />
+            </div>
+        }
+    </div>
+</div>
