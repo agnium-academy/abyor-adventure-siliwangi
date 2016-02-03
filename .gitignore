@@ -1,1 +1,6 @@
 My Story.txt
+<<<<<<< HEAD
+=======
+
+testgitignore.txt
+>>>>>>> refs/remotes/origin/master

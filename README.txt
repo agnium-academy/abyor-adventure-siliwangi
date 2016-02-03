@@ -1,10 +1,13 @@
-# abyor-adventure-siliwangi
+abyor-adventure-siliwangi
+===========
+
+
 abyor-adventure-siliwangi created by Classroom for GitHub
 
 # Harap diperhatikan baik-baik
 # Silahkan buat kontent dalam sebuah file sesuai dengan kebutuhan
 # Semangat kaka
-
+ di isni
 Silahkan isi data kalian semua di bawah
 -----------------------
 Nama : Ucu Nurul Ulum
@@ -30,5 +33,6 @@ TTL  : Brebes, 10 November
 Hobi : Main
 -----------------------
 
+mencoba mengubah stash apa itu 
 
-Edit by Dwi Oktaviani training GITHUB day 2....
+Percobaan Stash
