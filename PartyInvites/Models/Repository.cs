@@ -11,9 +11,9 @@ namespace PartyInvites.Models
         static Repository()
         {
             responses = new Dictionary<string, GuestResponse>();
-            responses.Add("Uccu", new GuestResponse
+            responses.Add("Ucu", new GuestResponse
             {
-                Nama = "Uccu",
+                Nama = "Ucu",
                 Alamat = "Serang",
                 Umur = "27"
             });
